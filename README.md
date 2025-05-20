@@ -8,18 +8,11 @@
 
 ## 🚀 Habilidades & Tecnologias
 
-- 👨‍💻 Linguagens: Python, C, C++, JavaScript, TypeScript, Verilog, Java
+- 👨‍💻 Linguagens: Python, C, C++, JavaScript, TypeScript, Verilog, Java, Haskell
 - 🧠 IA & Dados: Pandas, Scikit-learn, Librosa, Matplotlib, Naive Bayes, Regressão Logística
 - 🌐 Web: Node.js, Next.js, React, HTML/CSS
-- 🗃️ Banco de Dados: PostgreSQL, SQLite
-- 🛠️ Outros: Git, Linux, RDT 3.0, UDP/TCP, bootloaders, n8n, VPS
-
----
-## 📊 GitHub Stats
-
-![Danilo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaniloLDCarvalho&show_icons=true&theme=github_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloLDCarvalho&layout=compact&theme=github_dark)
+- 🗃️ Banco de Dados: PostgreSQL, SQLite, Redis, DynamoBD
+- 🛠️ Outros: Git, APIRest, Linux, RDT 3.0, UDP/TCP, bootloaders, n8n, VPS
 
 ---
 
