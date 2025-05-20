@@ -27,7 +27,7 @@
 ## 📫 Vamos conversar?
 
 - Email: DaniloLDCarvalho@gmail.com  
-- LinkedIn: [linkedin.com/in/seu-usuario](https://www.linkedin.com/in/daniloldcarvalho/)
+- LinkedIn: [linkedin.com/in/daniloldcarvalho](https://www.linkedin.com/in/daniloldcarvalho/)
 
 ---
 
