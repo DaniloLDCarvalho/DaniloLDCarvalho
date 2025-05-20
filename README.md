@@ -19,7 +19,7 @@
 
 ![Danilo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaniloLDCarvalho&show_icons=true&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloLDCarvalho&layout=compact&theme=github_dark)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloLDCarvalho&layout=compact&theme=github_dark)
 
 ---
 
