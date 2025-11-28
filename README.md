@@ -32,3 +32,11 @@
 ---
 
 ⭐ Obrigado por visitar meu perfil!
+
+
+### 📈 GitHub Stats
+![Danilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniloLDCarvalho&show_icons=true&theme=tokyonight)
+
+### 🔤 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloLDCarvalho&layout=compact&theme=tokyonight)
+
